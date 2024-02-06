@@ -1,0 +1,95 @@
+repo_name: stackshareiodev/ad_Depth-Anything
+report_id: b1195ddcc770b46a2961998b315ef7f4
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-06T11:33:35+00:00'
+requested_by: LiheYoung
+provider: github
+branch: main
+detected_tools_count: 7
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything
+  detection_source: Repo Metadata
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything/blob/main/torchhub/facebookresearch_dinov2_main/dinov2/configs/eval/vitb14_pretrain.yaml
+  detection_source: torchhub/facebookresearch_dinov2_main/dinov2/configs/eval/vitb14_pretrain.yaml
+  last_updated_by: Lihe Yang
+  last_updated_on: 2024-01-22 01:19:05.000000000 Z
+- name: Pylint
+  description: Source-code, bug and quality checker for the Python programming language
+  website_url: https://www.pylint.org/
+  version: 2.15.0
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4837/py.jpg
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything/blob/main/torchhub/facebookresearch_dinov2_main/requirements-dev.txt
+  detection_source: torchhub/facebookresearch_dinov2_main/requirements-dev.txt
+  last_updated_by: Lihe Yang
+  last_updated_on: 2024-01-22 01:19:05.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Lihe Yang
+  last_updated_on: 2024-01-22 01:14:27.000000000 Z
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/stackshareiodev/ad_Depth-Anything/blob/main/torchhub/facebookresearch_dinov2_main/requirements.txt
+  detection_source: torchhub/facebookresearch_dinov2_main/requirements.txt
+  last_updated_by: Lihe Yang
+  last_updated_on: 2024-01-22 01:19:05.000000000 Z
